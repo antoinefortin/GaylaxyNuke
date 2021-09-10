@@ -1,6 +1,6 @@
-int main()
+int void test()
 {
-	int a = 12;
+	int sda = 112;
 	int a = 12;
 	
 }
